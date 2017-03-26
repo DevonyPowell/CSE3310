@@ -1,0 +1,16 @@
+========================================================================================
+Report      : ERROR
+Date        : Fri Mar 24 14:27:18 CDT 2017
+Description : Failed to connect to/create the default domain
+Node        : devony-VirtualBox
+Process     : sacpp_helloworld_pub <9186>
+Thread      : main thread 7efbf7fd7740
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/gapi::gapi_domainParticipantFactory::gapi_domainParticipantFactory_create_participant/gapi_domainParticipantFactory.c/280/0/1490383638.901075273
+========================================================================================
+Report      : ERROR
+Date        : Fri Mar 24 14:27:49 CDT 2017
+Description : Failed to connect to/create the default domain
+Node        : devony-VirtualBox
+Process     : sacpp_helloworld_sub <9189>
+Thread      : main thread 7efbf7fd7740
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/gapi::gapi_domainParticipantFactory::gapi_domainParticipantFactory_create_participant/gapi_domainParticipantFactory.c/280/0/1490383669.350835971
